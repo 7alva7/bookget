@@ -1,3 +1,10 @@
+# 停更说明
+本软件自 2024年01月16日停止维护。
+
+>@DevoteToStudy志在成學，我建议你先学做人，别没事提建议。这个世界不缺提建议，叽叽歪歪的人，缺的是解决问题的人。
+
+
+
 # bookget
 
 bookget 数字图书馆下载工具，目前支持约50+个数字图书馆。
@@ -17,11 +24,6 @@ go build .
 ```
 
 - For Win可用环境：windows 10 x64 / windows 11 （自2024/01/12日起，引入bookget-gui只适用于Win10/11 x64系统）。
-
-
-### 问题讨论
-- Bug报告: https://github.com/deweizhu/bookget/issues
-- [书格](https://new.shuge.org/) 交流区(https://www.shuge.org/meet/at/80240/)
 
    
 
